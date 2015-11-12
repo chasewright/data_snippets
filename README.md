@@ -4,7 +4,7 @@ data science or anlaysis related projects for analytics, report-generation, or t
 ####Clone
 
 ```
-https://github.com/chasewright/data_snippets.git
+git clone https://github.com/chasewright/data_snippets.git
 
 cd data_snippets
 
